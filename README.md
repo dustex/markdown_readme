@@ -256,6 +256,8 @@ See more: [https://shields.io/](https://shields.io/)
 
 [StackEdit](https://stackedit.io) - _StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files._
 
+[MarkdownViewer++](https://github.com/nea/MarkdownViewerPlusPlus) - _A Notepad++ plugin._
+
 # Some links for more in depth learning
 
 :page_facing_up: [Markdown Extras](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#markdown---extras)
